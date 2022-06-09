@@ -1,0 +1,16 @@
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\bin\Debug\net5.0\figura2.exe
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\bin\Debug\net5.0\figura2.deps.json
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\bin\Debug\net5.0\figura2.runtimeconfig.json
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\bin\Debug\net5.0\figura2.runtimeconfig.dev.json
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\bin\Debug\net5.0\figura2.dll
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\bin\Debug\net5.0\ref\figura2.dll
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\bin\Debug\net5.0\figura2.pdb
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\obj\Debug\net5.0\figura2.csproj.AssemblyReference.cache
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\obj\Debug\net5.0\figura2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\obj\Debug\net5.0\figura2.AssemblyInfoInputs.cache
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\obj\Debug\net5.0\figura2.AssemblyInfo.cs
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\obj\Debug\net5.0\figura2.csproj.CoreCompileInputs.cache
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\obj\Debug\net5.0\figura2.dll
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\obj\Debug\net5.0\ref\figura2.dll
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\obj\Debug\net5.0\figura2.pdb
+C:\Users\s.georgieva\source\repos\11anasledqvane\figura2\obj\Debug\net5.0\figura2.genruntimeconfig.cache
